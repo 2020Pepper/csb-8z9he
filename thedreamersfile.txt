@@ -1,0 +1,29 @@
+The Dreamers Project was founded by 
+teens to provide technology and training
+to students in tech fields. 
+
+For anyone desires to learn tech, 
+it is nessacary for the student to have 
+a computer. 
+Meaning for students interested in the 
+tech field, learning tech gets 
+complicated. 
+
+The dreamers project not only provides 
+computers for
+students interested in tech, as well as 
+job training in both tech and buisness 
+positions. 
+
+THE STORY:
+
+
+  height: 50%;
+  height: 50vw;
+
+0% {
+  transform: translateX(100%);
+}
+100% {
+  transform: translateX(-100%);
+}
